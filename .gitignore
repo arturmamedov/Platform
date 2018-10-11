@@ -19,6 +19,13 @@ Homestead.json
 # AsgardCMS
 /public/storage
 
+## Modules and Themes Assets
+/public/modules/*
+/public/themes/*
+## and Builds
+/public/js/app.js
+/public/css/app.css
+
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
