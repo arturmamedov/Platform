@@ -29,7 +29,7 @@ class FileTranslationRepository implements FileTranslationRepositoryInterface
      */
     public function all()
     {
-        $files = $this->getTranslationFilenamesFromPaths($this->loader->paths());
+        $files = $this->getTranslationFilenamesFromPaths($this->loader->namespaces());
 
         $translations = [];
 
