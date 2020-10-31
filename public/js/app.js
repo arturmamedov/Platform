@@ -802,7 +802,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_NewFolder_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/style-loader!../../../../../node_modules/css-loader??ref--6-1!../../../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../../../node_modules/postcss-loader/src??ref--6-2!../../../../../node_modules/vue-loader/lib??vue-loader-options!./NewFolder.vue?vue&type=style&index=0&lang=css& */ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Media/Assets/js/components/NewFolder.vue?vue&type=style&index=0&lang=css&");
 /* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_NewFolder_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_NewFolder_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__);
 /* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_NewFolder_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__) if(["default"].indexOf(__WEBPACK_IMPORT_KEY__) < 0) (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_NewFolder_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
-
+ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_NewFolder_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0___default.a); 
 
 /***/ }),
 
@@ -1027,7 +1027,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_UploadZone_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/style-loader!../../../../../node_modules/css-loader??ref--6-1!../../../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../../../node_modules/postcss-loader/src??ref--6-2!../../../../../node_modules/vue-loader/lib??vue-loader-options!./UploadZone.vue?vue&type=style&index=0&lang=css& */ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Media/Assets/js/components/UploadZone.vue?vue&type=style&index=0&lang=css&");
 /* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_UploadZone_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_UploadZone_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__);
 /* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_UploadZone_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__) if(["default"].indexOf(__WEBPACK_IMPORT_KEY__) < 0) (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_UploadZone_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
-
+ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_UploadZone_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0___default.a); 
 
 /***/ }),
 
@@ -1284,7 +1284,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_PageTable_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/style-loader!../../../../../node_modules/css-loader??ref--6-1!../../../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../../../node_modules/postcss-loader/src??ref--6-2!../../../../../node_modules/vue-loader/lib??vue-loader-options!./PageTable.vue?vue&type=style&index=0&lang=css& */ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Page/Assets/js/components/PageTable.vue?vue&type=style&index=0&lang=css&");
 /* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_PageTable_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_PageTable_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__);
 /* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_PageTable_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__) if(["default"].indexOf(__WEBPACK_IMPORT_KEY__) < 0) (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_PageTable_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
-
+ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_PageTable_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0___default.a); 
 
 /***/ }),
 
@@ -2530,6 +2530,71 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 
 
@@ -2556,6 +2621,10 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
     },
     eventName: {
       "default": null,
+      type: String
+    },
+    listGridView: {
+      "default": 'grid',
       type: String
     }
   },
@@ -2710,10 +2779,16 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
     }, 300),
     enterFolder: function enterFolder(scope) {
       this.tableIsLoading = true;
-      this.folderId = scope.row.id;
+
+      if (typeof scope.row.id == 'undefined') {
+        this.folderId = scope.id;
+      } else {
+        this.folderId = scope.id;
+      }
+
       this.pushRoute({
         query: {
-          folder_id: scope.row.id
+          folder_id: this.folderId
         }
       });
     },
@@ -6104,7 +6179,7 @@ var render = function() {
                   [
                     _c(
                       "div",
-                      { staticClass: "actions el-col el-col-19" },
+                      { staticClass: "actions el-col el-col-16" },
                       [
                         _c("new-folder", {
                           attrs: { "parent-id": _vm.folderId }
@@ -6165,6 +6240,48 @@ var render = function() {
                                 "\n                            "
                             )
                           ]
+                        )
+                      ],
+                      1
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "div",
+                      { staticClass: "list-grid-view el-col el-col-3" },
+                      [
+                        _c(
+                          "el-radio-group",
+                          {
+                            model: {
+                              value: _vm.listGridView,
+                              callback: function($$v) {
+                                _vm.listGridView = $$v
+                              },
+                              expression: "listGridView"
+                            }
+                          },
+                          [
+                            _c(
+                              "el-radio-button",
+                              { attrs: { label: "grid" } },
+                              [
+                                _c("i", {
+                                  staticClass: "glyphicon glyphicon-th-large"
+                                })
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c(
+                              "el-radio-button",
+                              { attrs: { label: "list" } },
+                              [
+                                _c("i", {
+                                  staticClass: "glyphicon glyphicon-th-list"
+                                })
+                              ]
+                            )
+                          ],
+                          1
                         )
                       ],
                       1
@@ -6237,247 +6354,518 @@ var render = function() {
                   1
                 ),
                 _vm._v(" "),
-                _c(
-                  "el-table",
-                  {
-                    directives: [
-                      {
-                        name: "loading",
-                        rawName: "v-loading.body",
-                        value: _vm.tableIsLoading,
-                        expression: "tableIsLoading",
-                        modifiers: { body: true }
-                      }
-                    ],
-                    ref: "mediaTable",
-                    staticStyle: { width: "100%" },
-                    attrs: { data: _vm.media, stripe: "" },
-                    on: {
-                      "sort-change": _vm.handleSortChange,
-                      "selection-change": _vm.handleSelectionChange
-                    }
-                  },
-                  [
-                    _c("el-table-column", {
-                      attrs: { type: "selection", width: "55" }
-                    }),
-                    _vm._v(" "),
-                    _c("el-table-column", {
-                      attrs: { label: "", width: "150" },
-                      scopedSlots: _vm._u([
-                        {
-                          key: "default",
-                          fn: function(scope) {
-                            return [
-                              scope.row.is_image
-                                ? [
-                                    _c("img", {
-                                      staticClass: "img-responsive",
-                                      attrs: {
-                                        src: scope.row.small_thumb,
-                                        alt: ""
-                                      }
-                                    })
-                                  ]
-                                : scope.row.is_folder
-                                ? [
-                                    _c("i", {
-                                      staticClass: "fa fa-2x fa-folder"
-                                    })
-                                  ]
-                                : [
-                                    scope.row.fa_icon
-                                      ? _c("i", {
-                                          staticClass: "fa fa-2x",
-                                          class: scope.row.fa_icon
-                                        })
-                                      : _c("i", {
-                                          staticClass: "fa fa-2x fa-file"
-                                        })
-                                  ]
-                            ]
-                          }
-                        }
-                      ])
-                    }),
-                    _vm._v(" "),
-                    _c("el-table-column", {
-                      attrs: {
-                        label: _vm.trans("media.table.filename"),
-                        prop: "filename",
-                        sortable: "custom"
-                      },
-                      scopedSlots: _vm._u([
-                        {
-                          key: "default",
-                          fn: function(scope) {
-                            return [
-                              scope.row.is_folder
-                                ? [
-                                    _c(
-                                      "strong",
-                                      {
-                                        staticStyle: { cursor: "pointer" },
-                                        on: {
-                                          click: function($event) {
-                                            return _vm.enterFolder(scope)
-                                          }
-                                        }
-                                      },
-                                      [
-                                        _vm._v(
-                                          "\n                                        " +
-                                            _vm._s(scope.row.filename) +
-                                            "\n                                    "
-                                        )
-                                      ]
-                                    )
-                                  ]
-                                : [
-                                    _c(
-                                      "a",
-                                      {
-                                        attrs: { href: "#" },
-                                        on: {
-                                          click: function($event) {
-                                            $event.preventDefault()
-                                            return _vm.goToEdit(scope)
-                                          }
-                                        }
-                                      },
-                                      [
-                                        _vm._v(
-                                          "\n                                        " +
-                                            _vm._s(scope.row.filename) +
-                                            "\n                                    "
-                                        )
-                                      ]
-                                    )
-                                  ]
-                            ]
-                          }
-                        }
-                      ])
-                    }),
-                    _vm._v(" "),
-                    _c("el-table-column", {
-                      attrs: {
-                        label: _vm.trans("core.table.created at"),
-                        prop: "created_at",
-                        sortable: "custom",
-                        width: "150"
-                      }
-                    }),
-                    _vm._v(" "),
-                    _c("el-table-column", {
-                      attrs: { label: "", prop: "actions", width: "150" },
-                      scopedSlots: _vm._u([
-                        {
-                          key: "default",
-                          fn: function(scope) {
-                            return [
-                              _c(
-                                "div",
-                                { staticClass: "pull-right" },
+                _vm.listGridView == "grid"
+                  ? _c(
+                      "el-row",
+                      { attrs: { gutter: 40 } },
+                      _vm._l(_vm.media, function(file) {
+                        return _c(
+                          "el-col",
+                          {
+                            key: file.id,
+                            staticStyle: { "margin-bottom": "40px" },
+                            attrs: { span: 6 }
+                          },
+                          [
+                            _c(
+                              "el-card",
+                              {
+                                attrs: {
+                                  "body-style": {
+                                    padding: "0px",
+                                    position: "relative",
+                                    height: "250px",
+                                    "text-align": "center"
+                                  }
+                                }
+                              },
+                              [
                                 [
-                                  _vm.singleModal && !scope.row.is_folder
-                                    ? _c(
-                                        "el-button",
-                                        {
+                                  file.is_image
+                                    ? [
+                                        _c("img", {
+                                          staticClass: "img-responsive",
                                           attrs: {
-                                            type: "primary",
-                                            size: "small"
-                                          },
-                                          on: {
-                                            click: function($event) {
-                                              $event.preventDefault()
-                                              return _vm.insertMedia(scope)
-                                            }
+                                            src: file.medium_thumb,
+                                            alt: ""
                                           }
-                                        },
-                                        [
-                                          _vm._v(
-                                            "\n                                        " +
-                                              _vm._s(
-                                                _vm.trans("media.insert")
-                                              ) +
-                                              "\n                                    "
+                                        })
+                                      ]
+                                    : file.is_folder
+                                    ? [
+                                        _c("i", {
+                                          staticClass: "fa fa-4x fa-folder"
+                                        })
+                                      ]
+                                    : [
+                                        file.fa_icon
+                                          ? _c("i", {
+                                              staticClass: "fa fa-4x",
+                                              class: file.fa_icon
+                                            })
+                                          : _c("i", {
+                                              staticClass: "fa fa-4x fa-file"
+                                            })
+                                      ]
+                                ],
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  {
+                                    staticStyle: {
+                                      padding: "14px",
+                                      position: "absolute",
+                                      bottom: "5px",
+                                      left: "0",
+                                      right: "0"
+                                    }
+                                  },
+                                  [
+                                    file.is_folder
+                                      ? [
+                                          _c(
+                                            "strong",
+                                            {
+                                              staticStyle: {
+                                                cursor: "pointer"
+                                              },
+                                              on: {
+                                                click: function($event) {
+                                                  return _vm.enterFolder(file)
+                                                }
+                                              }
+                                            },
+                                            [
+                                              _vm._v(
+                                                "\n                                            " +
+                                                  _vm._s(file.filename) +
+                                                  "\n                                        "
+                                              )
+                                            ]
                                           )
                                         ]
-                                      )
-                                    : _vm._e(),
-                                  _vm._v(" "),
-                                  !_vm.singleModal
-                                    ? _c(
-                                        "div",
-                                        [
+                                      : [
                                           _c(
-                                            "el-button-group",
-                                            [
-                                              !scope.row.is_folder
-                                                ? _c("edit-button", {
-                                                    attrs: {
-                                                      to: {
-                                                        name:
-                                                          "admin.media.media.edit",
-                                                        params: {
-                                                          mediaId: scope.row.id
-                                                        }
-                                                      }
-                                                    }
-                                                  })
-                                                : _vm._e(),
-                                              _vm._v(" "),
-                                              scope.row.is_folder &&
-                                              _vm.canEditFolders
-                                                ? _c(
-                                                    "el-button",
-                                                    {
-                                                      attrs: { size: "mini" },
-                                                      on: {
-                                                        click: function(
-                                                          $event
-                                                        ) {
-                                                          $event.preventDefault()
-                                                          return _vm.showEditFolder(
-                                                            scope
-                                                          )
-                                                        }
-                                                      }
-                                                    },
-                                                    [
-                                                      _c("i", {
-                                                        staticClass:
-                                                          "fa fa-pencil"
-                                                      })
-                                                    ]
-                                                  )
-                                                : _vm._e(),
-                                              _vm._v(" "),
-                                              _c("delete-button", {
-                                                attrs: {
-                                                  scope: scope,
-                                                  rows: _vm.media
+                                            "a",
+                                            {
+                                              attrs: { href: "#" },
+                                              on: {
+                                                click: function($event) {
+                                                  $event.preventDefault()
+                                                  return _vm.goToEdit(file)
                                                 }
-                                              })
-                                            ],
-                                            1
+                                              }
+                                            },
+                                            [
+                                              _vm._v(
+                                                "\n                                            " +
+                                                  _vm._s(file.filename) +
+                                                  "\n                                        "
+                                              )
+                                            ]
                                           )
                                         ],
-                                        1
-                                      )
-                                    : _vm._e()
-                                ],
-                                1
-                              )
-                            ]
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      { staticClass: "bottom clearfix" },
+                                      [
+                                        [
+                                          _vm.singleModal && !file.is_folder
+                                            ? _c(
+                                                "el-button",
+                                                {
+                                                  attrs: {
+                                                    type: "primary",
+                                                    size: "small"
+                                                  },
+                                                  on: {
+                                                    click: function($event) {
+                                                      $event.preventDefault()
+                                                      return _vm.insertMedia(
+                                                        file
+                                                      )
+                                                    }
+                                                  }
+                                                },
+                                                [
+                                                  _vm._v(
+                                                    "\n                                                " +
+                                                      _vm._s(
+                                                        _vm.trans(
+                                                          "media.insert"
+                                                        )
+                                                      ) +
+                                                      "\n                                            "
+                                                  )
+                                                ]
+                                              )
+                                            : _vm._e(),
+                                          _vm._v(" "),
+                                          !_vm.singleModal
+                                            ? _c(
+                                                "div",
+                                                [
+                                                  _c(
+                                                    "el-button-group",
+                                                    [
+                                                      !file.is_folder
+                                                        ? _c("edit-button", {
+                                                            attrs: {
+                                                              to: {
+                                                                name:
+                                                                  "admin.media.media.edit",
+                                                                params: {
+                                                                  mediaId:
+                                                                    file.id
+                                                                }
+                                                              }
+                                                            }
+                                                          })
+                                                        : _vm._e(),
+                                                      _vm._v(" "),
+                                                      file.is_folder &&
+                                                      _vm.canEditFolders
+                                                        ? _c(
+                                                            "el-button",
+                                                            {
+                                                              attrs: {
+                                                                size: "mini"
+                                                              },
+                                                              on: {
+                                                                click: function(
+                                                                  $event
+                                                                ) {
+                                                                  $event.preventDefault()
+                                                                  return _vm.showEditFolder(
+                                                                    file
+                                                                  )
+                                                                }
+                                                              }
+                                                            },
+                                                            [
+                                                              _c("i", {
+                                                                staticClass:
+                                                                  "fa fa-pencil"
+                                                              })
+                                                            ]
+                                                          )
+                                                        : _vm._e(),
+                                                      _vm._v(" "),
+                                                      _c("delete-button", {
+                                                        attrs: {
+                                                          scope: file,
+                                                          rows: _vm.media
+                                                        }
+                                                      })
+                                                    ],
+                                                    1
+                                                  )
+                                                ],
+                                                1
+                                              )
+                                            : _vm._e()
+                                        ],
+                                        _vm._v(" "),
+                                        _c(
+                                          "time",
+                                          { staticClass: "text-gray" },
+                                          [
+                                            _vm._v(
+                                              _vm._s(
+                                                _vm.trans(
+                                                  "core.table.created at"
+                                                )
+                                              ) + " "
+                                            ),
+                                            _c("br"),
+                                            _vm._v(
+                                              " " + _vm._s(file.created_at)
+                                            )
+                                          ]
+                                        )
+                                      ],
+                                      2
+                                    )
+                                  ],
+                                  2
+                                )
+                              ],
+                              2
+                            )
+                          ],
+                          1
+                        )
+                      }),
+                      1
+                    )
+                  : _vm._e(),
+                _vm._v(" "),
+                _vm.listGridView == "list"
+                  ? _c(
+                      "el-table",
+                      {
+                        directives: [
+                          {
+                            name: "loading",
+                            rawName: "v-loading.body",
+                            value: _vm.tableIsLoading,
+                            expression: "tableIsLoading",
+                            modifiers: { body: true }
                           }
+                        ],
+                        ref: "mediaTable",
+                        staticStyle: { width: "100%" },
+                        attrs: { data: _vm.media, stripe: "" },
+                        on: {
+                          "sort-change": _vm.handleSortChange,
+                          "selection-change": _vm.handleSelectionChange
                         }
-                      ])
-                    })
-                  ],
-                  1
-                ),
+                      },
+                      [
+                        _c("el-table-column", {
+                          attrs: { type: "selection", width: "55" }
+                        }),
+                        _vm._v(" "),
+                        _c("el-table-column", {
+                          attrs: { label: "", width: "150" },
+                          scopedSlots: _vm._u(
+                            [
+                              {
+                                key: "default",
+                                fn: function(scope) {
+                                  return [
+                                    scope.row.is_image
+                                      ? [
+                                          _c("img", {
+                                            staticClass: "img-responsive",
+                                            attrs: {
+                                              src: scope.row.small_thumb,
+                                              alt: ""
+                                            }
+                                          })
+                                        ]
+                                      : scope.row.is_folder
+                                      ? [
+                                          _c("i", {
+                                            staticClass: "fa fa-2x fa-folder"
+                                          })
+                                        ]
+                                      : [
+                                          scope.row.fa_icon
+                                            ? _c("i", {
+                                                staticClass: "fa fa-2x",
+                                                class: scope.row.fa_icon
+                                              })
+                                            : _c("i", {
+                                                staticClass: "fa fa-2x fa-file"
+                                              })
+                                        ]
+                                  ]
+                                }
+                              }
+                            ],
+                            null,
+                            false,
+                            3773575069
+                          )
+                        }),
+                        _vm._v(" "),
+                        _c("el-table-column", {
+                          attrs: {
+                            label: _vm.trans("media.table.filename"),
+                            prop: "filename",
+                            sortable: "custom"
+                          },
+                          scopedSlots: _vm._u(
+                            [
+                              {
+                                key: "default",
+                                fn: function(scope) {
+                                  return [
+                                    scope.row.is_folder
+                                      ? [
+                                          _c(
+                                            "strong",
+                                            {
+                                              staticStyle: {
+                                                cursor: "pointer"
+                                              },
+                                              on: {
+                                                click: function($event) {
+                                                  return _vm.enterFolder(scope)
+                                                }
+                                              }
+                                            },
+                                            [
+                                              _vm._v(
+                                                "\n                                        " +
+                                                  _vm._s(scope.row.filename) +
+                                                  "\n                                    "
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      : [
+                                          _c(
+                                            "a",
+                                            {
+                                              attrs: { href: "#" },
+                                              on: {
+                                                click: function($event) {
+                                                  $event.preventDefault()
+                                                  return _vm.goToEdit(scope)
+                                                }
+                                              }
+                                            },
+                                            [
+                                              _vm._v(
+                                                "\n                                        " +
+                                                  _vm._s(scope.row.filename) +
+                                                  "\n                                    "
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                  ]
+                                }
+                              }
+                            ],
+                            null,
+                            false,
+                            2550822193
+                          )
+                        }),
+                        _vm._v(" "),
+                        _c("el-table-column", {
+                          attrs: {
+                            label: _vm.trans("core.table.created at"),
+                            prop: "created_at",
+                            sortable: "custom",
+                            width: "150"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("el-table-column", {
+                          attrs: { label: "", prop: "actions", width: "150" },
+                          scopedSlots: _vm._u(
+                            [
+                              {
+                                key: "default",
+                                fn: function(scope) {
+                                  return [
+                                    _c(
+                                      "div",
+                                      { staticClass: "pull-right" },
+                                      [
+                                        _vm.singleModal && !scope.row.is_folder
+                                          ? _c(
+                                              "el-button",
+                                              {
+                                                attrs: {
+                                                  type: "primary",
+                                                  size: "small"
+                                                },
+                                                on: {
+                                                  click: function($event) {
+                                                    $event.preventDefault()
+                                                    return _vm.insertMedia(
+                                                      scope
+                                                    )
+                                                  }
+                                                }
+                                              },
+                                              [
+                                                _vm._v(
+                                                  "\n                                        " +
+                                                    _vm._s(
+                                                      _vm.trans("media.insert")
+                                                    ) +
+                                                    "\n                                    "
+                                                )
+                                              ]
+                                            )
+                                          : _vm._e(),
+                                        _vm._v(" "),
+                                        !_vm.singleModal
+                                          ? _c(
+                                              "div",
+                                              [
+                                                _c(
+                                                  "el-button-group",
+                                                  [
+                                                    !scope.row.is_folder
+                                                      ? _c("edit-button", {
+                                                          attrs: {
+                                                            to: {
+                                                              name:
+                                                                "admin.media.media.edit",
+                                                              params: {
+                                                                mediaId:
+                                                                  scope.row.id
+                                                              }
+                                                            }
+                                                          }
+                                                        })
+                                                      : _vm._e(),
+                                                    _vm._v(" "),
+                                                    scope.row.is_folder &&
+                                                    _vm.canEditFolders
+                                                      ? _c(
+                                                          "el-button",
+                                                          {
+                                                            attrs: {
+                                                              size: "mini"
+                                                            },
+                                                            on: {
+                                                              click: function(
+                                                                $event
+                                                              ) {
+                                                                $event.preventDefault()
+                                                                return _vm.showEditFolder(
+                                                                  scope
+                                                                )
+                                                              }
+                                                            }
+                                                          },
+                                                          [
+                                                            _c("i", {
+                                                              staticClass:
+                                                                "fa fa-pencil"
+                                                            })
+                                                          ]
+                                                        )
+                                                      : _vm._e(),
+                                                    _vm._v(" "),
+                                                    _c("delete-button", {
+                                                      attrs: {
+                                                        scope: scope,
+                                                        rows: _vm.media
+                                                      }
+                                                    })
+                                                  ],
+                                                  1
+                                                )
+                                              ],
+                                              1
+                                            )
+                                          : _vm._e()
+                                      ],
+                                      1
+                                    )
+                                  ]
+                                }
+                              }
+                            ],
+                            null,
+                            false,
+                            3430713559
+                          )
+                        })
+                      ],
+                      1
+                    )
+                  : _vm._e(),
                 _vm._v(" "),
                 _c(
                   "div",
@@ -11267,8 +11655,8 @@ vue__WEBPACK_IMPORTED_MODULE_0___default.a.mixin(_Modules_Core_Assets_js_mixins_
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/joe/repositories/Platform/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /home/joe/repositories/Platform/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\serverpath\D2018\myne\ACMS3\Platform\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\serverpath\D2018\myne\ACMS3\Platform\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ }),

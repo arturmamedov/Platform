@@ -21,7 +21,7 @@
                     <div class="box-body">
                         <upload-zone v-if="showUploadZone" :parent-id="folderId"></upload-zone>
                         <div class="tool-bar el-row" style="padding-bottom: 20px;">
-                            <div class="actions el-col el-col-19">
+                            <div class="actions el-col el-col-16">
                                 <new-folder :parent-id="folderId"></new-folder>
                                 <el-button type="primary" @click="toggleUploadZone">
                                     {{ trans('media.upload file') }}
@@ -33,6 +33,18 @@
                                     {{ trans('core.button.delete') }}
                                 </el-button>
                             </div>
+
+                            <div class="list-grid-view el-col el-col-3">
+                                <el-radio-group v-model="listGridView">
+                                    <el-radio-button label="grid">
+                                        <i class="glyphicon glyphicon-th-large"></i>
+                                    </el-radio-button>
+                                    <el-radio-button label="list">
+                                        <i class="glyphicon glyphicon-th-list"></i>
+                                    </el-radio-button>
+                                </el-radio-group>
+                            </div>
+
                             <div class="search el-col el-col-5">
                                 <el-input v-model="searchQuery" prefix-icon="el-icon-search" @keyup.native="performSearch"></el-input>
                             </div>
@@ -46,7 +58,66 @@
                                 </el-breadcrumb>
                             </el-col>
                         </el-row>
+
+                        <el-row v-if="listGridView == 'grid'" :gutter="40">
+                            <el-col v-for="file in media"
+                                    :key="file.id"
+                                    :row="file"
+                                    :span="6"
+                                    style="margin-bottom: 40px;">
+                                <el-card
+                                    slot-scope="scope"
+                                     :body-style="{ padding: '0px', position: 'relative', height: '250px', 'text-align': 'center' }">
+
+                                    <template>
+                                        <template v-if="scope.row.is_image">
+                                            <img :src="scope.row.medium_thumb" alt="" class="img-responsive">
+                                        </template>
+                                        <template v-else-if="scope.row.is_folder" @click="enterFolder(scope)" style="margin-top: 45px;">
+                                            <i class="fa fa-4x fa-folder"></i>
+                                        </template>
+                                        <template v-else>
+                                            <i v-if="scope.row.fa_icon" :class="scope.row.fa_icon" class="fa fa-4x"></i>
+                                            <i v-else class="fa fa-4x fa-file"></i>
+                                        </template>
+                                    </template>
+
+                                    <div style="padding: 14px; position: absolute; bottom: 5px; left: 0; right: 0;">
+                                        <template v-if="scope.row.is_folder">
+                                            <strong style="cursor: pointer;" @click="enterFolder(scope)">
+                                                {{ scope.row.filename }}
+                                            </strong>
+                                        </template>
+                                        <template v-else>
+                                            <a href="#" @click.prevent="goToEdit(scope)">
+                                                {{ scoperow.filename }}
+                                            </a>
+                                        </template>
+
+                                        <div class="bottom clearfix">
+                                            <template class="row text-center">
+                                                <el-button v-if="singleModal && !scoperow.is_folder" type="primary" size="small" @click.prevent="insertMedia(scope)">
+                                                    {{ trans('media.insert') }}
+                                                </el-button>
+                                                <div v-if="!singleModal">
+                                                    <el-button-group>
+                                                        <edit-button v-if="!scoperow.is_folder" :to="{name: 'admin.media.media.edit', params: {mediaId: scoperow.id}}"></edit-button>
+                                                        <el-button v-if="scoperow.is_folder && canEditFolders" size="mini" @click.prevent="showEditFolder(scope)">
+                                                            <i class="fa fa-pencil"></i>
+                                                        </el-button>
+                                                        <delete-button :scope="scope" :rows="media"></delete-button>
+                                                    </el-button-group>
+                                                </div>
+                                            </template>
+
+                                            <time class="text-gray">{{ trans('core.table.created at') }} <br> {{ scoperow.created_at }}</time>
+                                        </div>
+                                    </div>
+                                </el-card>
+                            </el-col>
+                        </el-row>
                         <el-table
+                            v-if="listGridView == 'list'"
                             ref="mediaTable"
                             v-loading.body="tableIsLoading"
                             :data="media"
@@ -104,6 +175,7 @@
                                 </template>
                             </el-table-column>
                         </el-table>
+
                         <div class="pagination-wrap" style="text-align: center; padding-top: 20px;">
                             <el-pagination
                                 :current-page.sync="meta.current_page"
@@ -141,6 +213,7 @@
         props: {
             singleModal: { default: false, type: Boolean },
             eventName: { default: null, type: String },
+            listGridView: { default: 'grid', type: String },
         },
         data() {
             return {
@@ -262,6 +335,11 @@
             }, 300),
             enterFolder(scope) {
                 this.tableIsLoading = true;
+                // trick for emulate el-table scope row
+                // if (typeof scope.row == 'undefined') {
+                //     this.scope.row = scope;
+                // }
+
                 this.folderId = scope.row.id;
                 this.pushRoute({ query: { folder_id: scope.row.id } });
             },
